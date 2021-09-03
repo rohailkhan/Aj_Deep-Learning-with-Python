@@ -8,3 +8,7 @@
 5- Boston housing price perdiction using 12 ML algorithms with standard scaling and k-fold cross validation (but without grid search hyper parameter optimization )
 
 6- Diabetics classification using Dense deep learning model with callbacks
+
+7_Diabetics_Classification using Dense deep learning with_grid_search_hyperparameter_tuning
+
+8_Housing price Keras Dense Regression model with grid search hyperparameter_tuning
