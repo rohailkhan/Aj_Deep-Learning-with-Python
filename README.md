@@ -15,6 +15,6 @@
 
 9_Sonar_Classification using Dense deep learning with_grid_search_hyperparameter_tuning
 
-# Image Classification
+## Image Classification
 
 10_Image classification of hand written digists without using Convolutions
