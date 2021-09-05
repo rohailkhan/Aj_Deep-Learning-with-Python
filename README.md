@@ -14,3 +14,7 @@
 8_Housing price Keras Dense Regression model with grid search hyperparameter_tuning
 
 9_Sonar_Classification using Dense deep learning with_grid_search_hyperparameter_tuning
+
+# Image Classification
+
+10_Image classification of hand written digists without using Convolutions
