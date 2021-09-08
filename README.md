@@ -15,6 +15,13 @@
 
 9_Sonar_Classification using Dense deep learning with_grid_search_hyperparameter_tuning
 
+10_Hand written image classification using FC layers
+
+11_Hand written image classification using convolutions
+
+
+11_Fashion data image classification using convolutions
+
 ## Image Classification
 
 10_Image classification of hand written digists without using Convolutions
