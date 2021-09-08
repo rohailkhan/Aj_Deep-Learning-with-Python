@@ -20,7 +20,9 @@
 11_Hand written image classification using convolutions
 
 
-11_Fashion data image classification using convolutions
+12_Fashion data image classification using convolutions
+
+13_Object Recognition in Photographs
 
 ## Image Classification
 
