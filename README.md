@@ -15,6 +15,10 @@
 
 9_Sonar_Classification using Dense deep learning with_grid_search_hyperparameter_tuning
 
+14_Movies Reviews Sentiment Analaysis
+
+## Image Classification
+
 10_Hand written image classification using FC layers
 
 11_Hand written image classification using convolutions
@@ -24,6 +28,5 @@
 
 13_Object Recognition in Photographs
 
-## Image Classification
 
-10_Image classification of hand written digists without using Convolutions
+
